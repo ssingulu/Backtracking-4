@@ -1,5 +1,5 @@
-# Time: Exponential
-# Space: Exponential
+# Time: O(k**n/k)
+# Space: O(n)
 class Solution(object):
     def __init__(self):
         self.ans = []
